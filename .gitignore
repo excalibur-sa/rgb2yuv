@@ -1,0 +1,38 @@
+# Build directories
+build/
+out/
+
+# Object files
+*.o
+*.obj
+
+# Library files
+*.a
+*.so
+*.dll
+*.dylib
+
+# Executable files
+*.exe
+*.out
+
+# Generated files
+*.yuv
+*.raw
+test_output_*.yuv
+output_*.yuv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Debug files
+*.d
+core
+core.*
+
+# macOS files
+.DS_Store
